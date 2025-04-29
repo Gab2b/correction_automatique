@@ -1,1 +1,3 @@
-# correction_automatique
+# Correction Automatique de projets C
+
+🍕 🍔 🍣 🥐 🍩
